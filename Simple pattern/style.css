@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #cd6161;
+  font-family: Arial, sans-serif;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+main {
+  margin-top: 20px;
+}
